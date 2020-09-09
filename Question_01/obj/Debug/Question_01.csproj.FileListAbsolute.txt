@@ -1,0 +1,12 @@
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\bin\Debug\Question_01.exe.config
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\bin\Debug\Question_01.exe
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\bin\Debug\Question_01.pdb
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\bin\Debug\OpenCvSharp.dll
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.csprojAssemblyReference.cache
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.Form1.resources
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.Properties.Resources.resources
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.csproj.GenerateResource.cache
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.csproj.CoreCompileInputs.cache
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.csproj.CopyComplete
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.exe
+C:\Users\Prabhavi\source\repos\Final final\Question_01\Question_01\obj\Debug\Question_01.pdb
